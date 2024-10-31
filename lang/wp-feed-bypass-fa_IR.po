@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bypass Rss Readers\n"
+"POT-Creation-Date: 2015-04-04 09:41+0330\n"
+"PO-Revision-Date: 2015-04-04 09:46+0330\n"
+"Last-Translator: \n"
+"Language-Team: David Mousavi <david@wp-help.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../wp-feed-bypass.php:16
+msgid "Feed ByPass Options"
+msgstr "تنظیمات افزونه جلوگیری از اشتراک گذاری مطالب"
+
+#: ../wp-feed-bypass.php:16
+msgid "Feed ByPass"
+msgstr "جلوگیری از RSS خوان"
+
+#: ../wp-feed-bypass.php:37
+msgid "You do not have sufficient permissions to access this page."
+msgstr "﻿شما مجوز کافی برای دسترسی به این صفحه را ندارید."
+
+#: ../wp-feed-bypass.php:41
+msgid "Feed ByPass setting"
+msgstr "﻿تنظیمات"
+
+#: ../wp-feed-bypass.php:48
+msgid "Your site url"
+msgstr "﻿آدرس سایت خود را وارد کنید"
